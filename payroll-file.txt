@@ -1,0 +1,3 @@
+NAME : samyak, ID : 1, SALARY : 100000
+NAME : manu, ID : 2, SALARY : 200000
+NAME : sam, ID : 3, SALARY : 300000
